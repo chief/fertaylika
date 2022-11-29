@@ -2,7 +2,7 @@
 layout: post
 title:  "Editorial πρώτου τεύχους"
 date:   2022-11-18 20:26:25 +0300
-categories: jekyll update
+categories: teuxos-01
 background: '/img/posts/editorial-1.jpg'
 ---
 Οι δυστοπίες έχουν βαθιές ιστορικές καταβολές. Οι παλιές φωτογραφίες,

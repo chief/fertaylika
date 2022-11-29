@@ -2,7 +2,7 @@
 layout: post
 title:  "Κομμάτια και αποσπάσματα για τον Βαγγέλη Παπάζογλου"
 date:   2022-11-29 20:26:25 +0300
-categories: jekyll update
+categories: teuxos-01
 background: '/img/posts/vaggelis-06.jpg'
 ---
 Ο Βαγγέλης Παπάζογλου γεννήθηκε στο Ντουρμπαλί της Σμύρνης το 1896.
